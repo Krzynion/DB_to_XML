@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parametryProgramu>
+  <connectionString>Driver={Microsoft Paradox Driver (*.db )};DriverID=538;Fil=Paradox 5.X;DefaultDir=C:\fisVAkT\Bazy\;Dbq=C:\fisVAkT\Bazy\;CollatingSequence=ASCII;</connectionString>
+  <savePath>D:\</savePath>
+  <saveFileName>ControlCar_{rok}-{miesiac}_wod</saveFileName>
+</parametryProgramu>

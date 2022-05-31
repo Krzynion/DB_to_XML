@@ -1,0 +1,84 @@
+-------------------------------------------
+2018-02-15 20:11:40
+Otwieranie bazy danych SKP PRO
+Pobieranie danych za okres: 2018 / 01.
+W podanym okresie zostało odnalezionych 58 dokumentów
+Ilość poprawnie odczytanych dokumentów: 58
+-------------------------------------------
+2018-02-15 20:18:23
+Otwieranie bazy danych SKP PRO
+Pobieranie danych za okres: 2017 / 05.
+W podanym okresie zostało odnalezionych 50 dokumentów
+-------------------------------------------
+2018-02-15 20:25:45
+Otwieranie bazy danych SKP PRO
+Pobieranie danych za okres: 2018 / 01.
+W podanym okresie zostało odnalezionych 58 dokumentów
+-------------------------------------------
+2018-02-15 22:07:26
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+2018-02-16 00:06:35
+-------------------------------------------
+2018-02-17 19:17:36
+Otwieranie bazy danych SKP PRO
+Pobieranie danych za okres: 2015 / 01.
+Błąd!:
+Brak dokumentów do pobrania.
+Sprawdz czy wartość Okresu za jaki mają być pobrane dokumenty jest poprawnie wpisana.
+Otwieranie bazy danych SKP PRO
+Pobieranie danych za okres: 2015 / 01.
+Błąd!:
+Brak dokumentów do pobrania.
+Sprawdz czy wartość Okresu za jaki mają być pobrane dokumenty jest poprawnie wpisana.
+Otwieranie bazy danych SKP PRO
+Pobieranie danych za okres: 2017 / 05.
+W podanym okresie zostało odnalezionych 50 dokumentów
+-------------------------------------------
+2018-02-17 19:18:39
+-------------------------------------------
+2018-02-17 19:27:48
+Otwieranie bazy danych SKP PRO
+Pobieranie danych za okres: 2017 / 05.
+W podanym okresie zostało odnalezionych 50 dokumentów
+Ilość poprawnie odczytanych dokumentów: 50
+Ilość przetworzonych dokumentów: 50
+Zapisywanie pliku.
+Plik:
+D:\DOTNET\Control_Car\ControlCar_2017-05_wod1.xml
+został zapisany!
+-------------------------------------------
+2018-02-17 19:47:35
+Otwieranie bazy danych SKP PRO
+Pobieranie danych za okres: 2017 / 02.
+W podanym okresie zostało odnalezionych 51 dokumentów
+Ilość poprawnie odczytanych dokumentów: 51
+Ilość przetworzonych dokumentów: 51
+Zapisywanie pliku.
+Plik:
+D:\DOTNET\Control_Car\ControlCar_2017-02_wod.xml
+został zapisany!
+-------------------------------------------
+2018-02-17 19:54:23
+Otwieranie bazy danych SKP PRO
+Pobieranie danych za okres: 2017 / 12.
+W podanym okresie zostało odnalezionych 61 dokumentów
+Ilość poprawnie odczytanych dokumentów: 61
+Ilość przetworzonych dokumentów: 61
+Zapisywanie pliku.
+Plik:
+D:\DOTNET\Control_Car\ControlCar_2017-12_wod.xml
+został zapisany!
+-------------------------------------------
+31.05.2022 18:14:07
+Otwieranie bazy danych SKP PRO
+Pobieranie danych za okres: 2022 / 04.
+Wyjątek Krytyczny!:
+ERROR [HY024] [Microsoft][Sterownik ODBC Paradox ] '(nieznane)' nie jest poprawną ścieżką. Sprawdź, czy nazwa ścieżki jest wprowadzona poprawnie oraz czy istnieje połączenie z serwerem, na którym jest przechowywany plik.
+ERROR [01000] [Microsoft][Sterownik ODBC Paradox ]Ostrzeżenie ogólne Nie można otworzyć klucza rejestru 'Temporary (volatile) Jet DSN for process 0x5680 Thread 0x45f0 DBC 0x5102e84 Paradox'.
+ERROR [IM006] [Microsoft][Menedżer sterowników ODBC] Procedura SQLSetConnectAttr sterownika nie powiodła się
+ERROR [01000] [Microsoft][Sterownik ODBC Paradox ]Ostrzeżenie ogólne Nie można otworzyć klucza rejestru 'Temporary (volatile) Jet DSN for process 0x5680 Thread 0x45f0 DBC 0x5102e84 Paradox'.
+ERROR [HY024] [Microsoft][Sterownik ODBC Paradox ] '(nieznane)' nie jest poprawną ścieżką. Sprawdź, czy nazwa ścieżki jest wprowadzona poprawnie oraz czy istnieje połączenie z serwerem, na którym jest przechowywany plik.
+Działanie programu zotało przerwane!
